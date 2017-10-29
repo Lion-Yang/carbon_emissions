@@ -6,7 +6,9 @@ This is part of my senior thesis. It intends to explore how the relative allocat
 
 Cloning the repository to your local directory using the following code:
 
+```
 git clone https://github.com/ricardowang/carbon_emissions
+```
 
 ### Prerequisites
 
