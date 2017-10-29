@@ -31,16 +31,7 @@ Give the example
 
 ## Running the tests
 
-1. Extracting emissions data from the European Union Transaction Log: 
-
-```
-Give the example
-```
-
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+### 1. Extracting emissions data from the European Union Transaction Log: 
 
 ```
 Give an example
