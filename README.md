@@ -63,6 +63,6 @@ See also the list of [contributors](https://github.com/ricardowang/carbon_emissi
 ## Acknowledgments
 
 * I am especially grateful to my thesis advisor, Professor Kathryn Dominguez, for her invaluable suggestions and continued guidance.
-* Thank Tian Yang for his help on extracting data from the European Union Transaction Log
+* I thank Tian Yang for his help on extracting data from the European Union Transaction Log. 
 
 
