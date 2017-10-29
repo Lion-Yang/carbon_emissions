@@ -1,6 +1,6 @@
 # The Impact of the EU ETS on the Competitiveness and Employment of Firms in the Second Trading Period
 
-This is part of my senior thesis. It intends to explore how the relative allocation of allowances in the EU ETS impact the competitveness and employment of firms covered by the EU ETS in the second trading period. This github project will go over how to extract emissions data from the European Union Transaction Log, how to download company-level data (NACE code, Revenue data, and No. employment data) from Orbis by Bureau van Dijk. 
+This is part of my senior thesis. It intends to explore how the relative allocation of allowances in the EU ETS impact the competitveness and employment of firms covered by the EU ETS in the second trading period. This github project will go over how to extract emissions data from the European Union Transaction Log, how to download company-level data (NACE code, Revenue data, and No. employment data) from Orbis by Bureau van Dijk, and how to perform the empirical analysis used by my senior thesis. 
 
 ## Getting Started
 
