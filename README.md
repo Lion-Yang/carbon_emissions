@@ -4,7 +4,9 @@ This is part of my senior thesis. It intends to explore how the relative allocat
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Cloning the repository to your local directory using the following code:
+
+git clone https://github.com/ricardowang/carbon_emissions
 
 ### Prerequisites
 
