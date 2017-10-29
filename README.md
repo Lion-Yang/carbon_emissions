@@ -24,21 +24,19 @@ A step by step series of examples that tell you have to get a development env ru
 
 Say what the step will be
 
+
 ```
 Give the example
 ```
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Running the tests
 
-Explain how to run the automated tests for this system
+1. Extracting emissions data from the European Union Transaction Log: 
+
+```
+Give the example
+```
+
 
 ### Break down into end to end tests
 
@@ -63,6 +61,6 @@ See also the list of [contributors](https://github.com/ricardowang/carbon_emissi
 ## Acknowledgments
 
 * I am especially grateful to my thesis advisor, Professor Kathryn Dominguez, for her invaluable suggestions and continued guidance.
-* I thank Tian Yang for his help on extracting data from the European Union Transaction Log. 
+* I thank Tian Yang for his help on extracting emissions data from the European Union Transaction Log. 
 
 
