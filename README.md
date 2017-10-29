@@ -55,7 +55,7 @@ Please read [CONTRIBUTING.md] for details on our code of conduct, and the proces
 
 ## Authors
 
-* **Haihang Wang** - *Initial work* - [PurpleBooth](https://github.com/ricardowang/carbon_emissions)
+* **Haihang Wang** - *Initial work* - [Carbon_Emissions](https://github.com/ricardowang/carbon_emissions)
 
 See also the list of [contributors](https://github.com/ricardowang/carbon_emissions/contributors) who participated in this project.
 
